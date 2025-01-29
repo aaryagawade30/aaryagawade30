@@ -16,15 +16,7 @@
 
 ## 🛠️ Tech Stack  
 ### **Languages & Tools:**  
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)  
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)  
-![C](https://img.shields.io/badge/C-lightgrey?style=for-the-badge&logo=c)  
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)  
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)  
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)  
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)  
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)  
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)  
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)  ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)  ![C](https://img.shields.io/badge/C-lightgrey?style=for-the-badge&logo=c)  ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)  ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)  ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)  ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)  ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)  ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)  
 
 ---
 
