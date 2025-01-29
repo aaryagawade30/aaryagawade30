@@ -2,7 +2,7 @@
 
 🎓 **Electronics and Telecommunications (BTech SY)**  
 📍 Pune, Maharashtra  
-📧 [Email](mailto:aaryagawade003@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aarya-gawade/) | [GitHub](https://github.com/aaryagawade30) | [LeetCode](https://leetcode.com/u/aaryagawade30/)
+📧 [Email](mailto:aaryagawade003@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/aarya-gawade/) | 💻 [GitHub](https://github.com/aaryagawade30) | 🏆 [LeetCode](https://leetcode.com/u/aaryagawade30/)
 
 ---
 
@@ -43,8 +43,9 @@
 ---
 
 ## 🌟 Extracurricular  
-💡 **Math Club (CCEW)**: Teaching **7th-grade students cryptography & math**  
-💻 **Code Club (CCEW)**: **Mentoring juniors** & designing coding problems  
+💡 **Math Club (CCEW)**: Taught 7th-grade students cryptography & math
+
+💻 **Code Club (CCEW)**: Mentoring juniors & designing coding problems for them 
 
 ---
 
@@ -53,8 +54,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryagawade30&layout=compact&theme=radical)  
 
 ---
-
+<!--
 ### **📫 Let's Connect!**  
 📧 [Email](mailto:aaryagawade003@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/aarya-gawade/) 
-
+-->
 
