@@ -33,7 +33,7 @@
 ✅ **Rank 1 in Semester 2 (SGPA: 9.95)** | **Rank 5 in First Year (CGPA: 9.50)**  
 
 ---
-
+<!--
 ## 📌 Projects  
 ### 🔹 [DepthResNet](https://gitlab.com/neural-netizens/polypnet)  
 - 🏥 **AI-based polyp detection** API  
@@ -47,7 +47,7 @@
 ### 🔹 [Currency Converter](https://github.com/aaryagawade30/Currency_converter)  
 - 💰 Supports **30+ currencies** via Euro Bank API  
 - 🖥️ Built using **Tkinter & Pandas**  
-
+-->
 ---
 
 ## 🌟 Extracurricular  
