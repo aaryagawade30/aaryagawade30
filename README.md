@@ -2,7 +2,7 @@
 
 🎓 **Electronics and Telecommunications (BTech SY)**  
 📍 Pune, Maharashtra  
-📧 [Email](mailto:aaryagawade003@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/aarya-gawade/) | 💻 [GitHub](https://github.com/aaryagawade30) | 🏆 [LeetCode](https://leetcode.com/u/aaryagawade30/)
+📧 [Email](mailto:aaryagawade003@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/aarya-gawade/) | 💻 [GitHub](https://github.com/aaryagawade30) | 🏆 [LeetCode](https://leetcode.com/u/rixivi_rain/)
 
 ---
 
