@@ -7,10 +7,10 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 **BTech (SY) in Electronics and Telecommunications** @ MKSSS’s Cummins College of Engineering for Women  
+- 🎓 **BTech (TY) in Electronics and Telecommunications** @ MKSSS’s Cummins College of Engineering for Women  
 - 🏆 **Women Engineers ’24 Scholar** - Selected in top **1% (200/30,000+)** in Talentsprint’s program supported by **Google**  
 - 🎯 Passionate about **AI/ML, Web Development & Competitive Programming**  
-- 💡 **CGPA: 9.50**  
+- 💡 **CGPA: 9.06**  
 
 ---
 
@@ -43,9 +43,11 @@
 ---
 
 ## 🌟 Extracurricular  
-💡 **Math Club (CCEW)**: Taught 7th-grade students cryptography & math
+💻 **Code Club Co-Head (CCEW)**: Mentoring juniors & designing coding problems for them 
 
-💻 **Code Club (CCEW)**: Mentoring juniors & designing coding problems for them 
+💡 **Math Club Content Team Head (CCEW)**: Taught 7th-grade students cryptography & math
+
+
 
 ---
 
